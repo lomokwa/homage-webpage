@@ -1,0 +1,18 @@
+body {
+  background: rgb(0,0,0);
+  background: -moz-linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(30,30,30,1) 100%);
+  background: -webkit-linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(30,30,30,1) 100%);
+  background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(30,30,30,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#1e1e1e",GradientType=1);
+}
+
+h2 {
+  font-family: Helvetica, Arial, sans-serif;
+  color: whitesmoke;
+}
+
+p {
+  font-family: Helvetica, Arial, sans-serif;
+  color: whitesmoke;
+}
+
